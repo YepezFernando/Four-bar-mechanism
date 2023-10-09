@@ -1,0 +1,141 @@
+<deployment-project plugin="plugin.toolbox" plugin-version="1.0">
+  <configuration file="C:\Users\Erika Freire\Documents\UNIVERSIDAD TECNICA DEL NORTE\Dinamica y mecanismo\PROYECTO ACTUAL\Current mechanism project\Intelligentsoul\Intelligentsoul.prj" location="C:\Users\Erika Freire\Documents\UNIVERSIDAD TECNICA DEL NORTE\Dinamica y mecanismo\PROYECTO ACTUAL\Current mechanism project\Intelligentsoul" name="Intelligentsoul" target="target.toolbox" target-name="Package Toolbox">
+    <param.appname>Intelligentsoul</param.appname>
+    <param.authnamewatermark>Freire Erika, Albuja Jhonny, Chávez Antony</param.authnamewatermark>
+    <param.email>edfreirec@utn.edu.ec,jlalbujaa@utn.edu.ec,abchaveza@utn.edu.ec</param.email>
+    <param.company>Universidad Técnica del Norte</param.company>
+    <param.summary>This programme shows the type of mechanism, fracture points, velocity, acceleration and maximum angles both linear, angular and sizes.</param.summary>
+    <param.description>This program was created by students of third level engineering in Mechatronics belonging to the Technical University of the North in order to help people who are dedicated to designing mechanisms to make it much easier to see which mechanism is convenient, to know the points where these are going to fracture, the maximum speed with which they can go safely and the appropriate sizes to apply in these.</param.description>
+    <param.screenshot>${PROJECT_ROOT}\logequip.PNG</param.screenshot>
+    <param.version>1.0</param.version>
+    <param.output>${PROJECT_ROOT}\Intelligentsoul.mltbx</param.output>
+    <param.products.name />
+    <param.products.id />
+    <param.products.version />
+    <param.platforms />
+    <param.guid>9120183d-5a23-4a2d-a116-204540d4dfc7</param.guid>
+    <param.exclude.filters />
+    <param.exclude.pcodedmfiles>true</param.exclude.pcodedmfiles>
+    <param.examples />
+    <param.demosxml />
+    <param.apps />
+    <param.registered.apps />
+    <param.docs />
+    <param.getting.started.guide />
+    <param.matlabpath.excludes />
+    <param.javaclasspath.excludes />
+    <param.exported.on.package>false</param.exported.on.package>
+    <param.required.addons />
+    <param.matlab.project.id />
+    <param.matlab.project.name />
+    <param.release.start />
+    <param.release.end />
+    <param.release.current.only>false</param.release.current.only>
+    <param.compatiblity.windows>true</param.compatiblity.windows>
+    <param.compatiblity.macos>true</param.compatiblity.macos>
+    <param.compatiblity.linux>true</param.compatiblity.linux>
+    <param.compatiblity.matlabonline>true</param.compatiblity.matlabonline>
+    <param.installation.map />
+    <param.additional.sw.names />
+    <param.additional.sw.licenses />
+    <param.additional.sw.win.url />
+    <param.additional.sw.mac.url />
+    <param.additional.sw.linux.url />
+    <unset>
+      <param.version />
+      <param.output />
+      <param.products.name />
+      <param.products.id />
+      <param.products.version />
+      <param.platforms />
+      <param.exclude.filters />
+      <param.exclude.pcodedmfiles />
+      <param.examples />
+      <param.demosxml />
+      <param.apps />
+      <param.registered.apps />
+      <param.docs />
+      <param.getting.started.guide />
+      <param.matlabpath.excludes />
+      <param.javaclasspath.excludes />
+      <param.exported.on.package />
+      <param.required.addons />
+      <param.matlab.project.id />
+      <param.matlab.project.name />
+      <param.release.start />
+      <param.release.end />
+      <param.release.current.only />
+      <param.compatiblity.windows />
+      <param.compatiblity.macos />
+      <param.compatiblity.linux />
+      <param.compatiblity.matlabonline />
+      <param.installation.map />
+      <param.additional.sw.names />
+      <param.additional.sw.licenses />
+      <param.additional.sw.win.url />
+      <param.additional.sw.mac.url />
+      <param.additional.sw.linux.url />
+    </unset>
+    <fileset.rootdir>
+      <file>${PROJECT_ROOT}</file>
+    </fileset.rootdir>
+    <fileset.rootfiles>
+      <file>${PROJECT_ROOT}\APPLICATION INFORMATION GUIDE-1.mlx</file>
+      <file>${PROJECT_ROOT}\AV2BALAN.mlapp</file>
+      <file>${PROJECT_ROOT}\AV2MANI.mlapp</file>
+      <file>${PROJECT_ROOT}\AVMANIBALAN.mlapp</file>
+      <file>${PROJECT_ROOT}\BT.m</file>
+      <file>${PROJECT_ROOT}\cropped-mecatronica.png</file>
+      <file>${PROJECT_ROOT}\HELP.mlapp</file>
+      <file>${PROJECT_ROOT}\icono_help.png</file>
+      <file>${PROJECT_ROOT}\icono_roptura.png</file>
+      <file>${PROJECT_ROOT}\icono_x.png</file>
+      <file>${PROJECT_ROOT}\IMG_Welcome.png</file>
+      <file>${PROJECT_ROOT}\IMG_Welcome.rar</file>
+      <file>${PROJECT_ROOT}\Intelligentsoul.mlapp</file>
+      <file>${PROJECT_ROOT}\ley1.mlapp</file>
+      <file>${PROJECT_ROOT}\ley2.mlapp</file>
+      <file>${PROJECT_ROOT}\ley3.mlapp</file>
+      <file>${PROJECT_ROOT}\ley4.mlapp</file>
+      <file>${PROJECT_ROOT}\ley5.mlapp</file>
+      <file>${PROJECT_ROOT}\logequip.PNG</file>
+      <file>${PROJECT_ROOT}\MEC.PNG</file>
+      <file>${PROJECT_ROOT}\MechanisImag.PNG</file>
+      <file>${PROJECT_ROOT}\MechanisImage0.png</file>
+      <file>${PROJECT_ROOT}\MechanisImage8.png</file>
+      <file>${PROJECT_ROOT}\PM4BA1.asv</file>
+      <file>${PROJECT_ROOT}\PM4BA1.fig</file>
+      <file>${PROJECT_ROOT}\PM4BA1.m</file>
+      <file>${PROJECT_ROOT}\PM4BA1.rar</file>
+      <file>${PROJECT_ROOT}\roptura.mlapp</file>
+      <file>${PROJECT_ROOT}\unnamed.jpg</file>
+      <file>${PROJECT_ROOT}\unnamed.rar</file>
+    </fileset.rootfiles>
+    <fileset.depfun.included />
+    <fileset.depfun.excluded />
+    <fileset.package />
+    <build-deliverables>
+      <file location="${PROJECT_ROOT}" name="Intelligentsoul.mltbx" optional="false">C:\Users\Erika Freire\Documents\UNIVERSIDAD TECNICA DEL NORTE\Dinamica y mecanismo\PROYECTO ACTUAL\Current mechanism project\Intelligentsoul\Intelligentsoul.mltbx</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2023a</root>
+      <toolboxes />
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>10.0</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
